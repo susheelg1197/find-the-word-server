@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hale-life-235915",
+  "private_key_id": "c383efba58c2ded5aa70fcb6c217e1fbf300ac93",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0LulD7cd1d3Ej\nFCbgBajhhTnx4JwaC1rx63EB3LZ4MePykORrjao7A71fjLkeq/AZ+fjJ+V1HyVcp\n0gfF/OEROvhhFTITULawJ/CaW3xVYOT9z9EXy4+S6d7v+6NWtfDYzS4R0CPGTmdQ\nop/8pPJHLjiQEdQAK4z04nX8iFw+3R7nDeMSE270zl4hLMVnZ3nD7FfBzqLAQPy/\nhv8avT7Fj2kl0VwtfitS4c9BbtXh7bC3ImTAhd0qMyBMzi5GwPGZXI1KeGk8H0Kf\nEemmhdC3AKMoCOjYxlLWwpphw6K2AHd4l99co1AdG1qBzd5BxOW295JxAWWvWJYa\nNarXlkrrAgMBAAECggEALZNkG3OMrTC+JFJXlvi3g/vP8VeQBKJ0qZaVKhRq7zIn\nZ1axAGd/9Jd4ki+lL5XsEJYDEQuLRbou2vwuTS0uvM3+v4e999bFrv8bQ9/6Lhpp\nMa4cRHmP4mhXpLow0aEJv7z+dzD/q4xvY50O/Le4NLsDQaXQyw45BEQ39d2D/74+\n3duFKLUFrq0cu3DPaEibRI+mXZKdsuH4u9+xbpTeh6HMJrY9hmI/LZFQYinRayy7\nTcZSj9fzHTNCslqlWRsh+yAIdpd5IZcOY15GKSPoX9yVWelRfTM1j6QJ/rgobz9b\nMMLASDF0Z4RK28o6G2R31rwEvEPozI0YKgOCZFMNMQKBgQD4rUTIV9sFlTG28iio\nRRbKbnZL+vPjSIeGLNmP8kMNw/Nh/Ujwupq7nzY2hT6L0WIkb6j0HjoTjkIE/sdn\nIgdaXsP45Kbhn1U+WS77lGPE9NolAYVX5pq+QUMJia+1AL29FcphaMIc+csOUX0T\no/Icch0hpLbN/j260QrRDQGUowKBgQC5fUgD8gNvkiEiClCfBj1LmY0KuSQs85FR\nLBUdRk8GuxdgDmmfX83mZnZ1LYHCDrhy9c06nIsW4k9nWjyWEbUEq4f0LniwoNkH\nF6+au8omwagmTXN346iMre941XM9qoP35NmNaXubHd3vj1Hzh/Zo6pspvXDMONns\nPZsF5juNGQKBgF41ZiVwAy2uQ9NHElgNNIEkL/TA8bxdMdqHCzUZVoXUglPRHNz2\nFMCXpHYrLHLTtBaRprQ071ORRTmXO/u6TIbT9/JGzWIUdrrUFpSAtvtat3nlhZqz\nZlRFbRwj6UjtKvSDWNRmV4Oarm6SOIxEQ+i64oZoXEjV1JT9tNdV0g95AoGABuik\nqwjzmc8+jq8Fq7amx88TUsfskgQMcJKMwsdgoCaNy1UeGAKQf7lnRhwIzjqQIjAH\nkdxMzfBl9rqEsS49qMvex3iHpESJcNsv/jpqYCEsayjNWTTQjVTZK43/uddFDRGo\nDL1WDkQBhS+4ZLK2uderKdXVgrXHYCY3RPP7WdkCgYEAoWE5gOomi9Xi/4NkeVsu\nvl2kW15e9tEcJOkCFPfo4WtbnSIzGu/hgD70EKIKsQzpOUzgbzhbg0yit8O3WT8i\nK1RuOSiXmybuqOBBXEixYDnS4cFOKo3eLePXfYMpVNZt1E+j+wad6q6EQv3/PLXF\n+a1H0gSQ3JExX2zSNoum0Jg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "susheelg@hale-life-235915.iam.gserviceaccount.com",
+  "client_id": "104771192785655490048",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/susheelg%40hale-life-235915.iam.gserviceaccount.com"
+}
