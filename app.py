@@ -77,8 +77,9 @@ def generateObj(type):
                 answers.append({'content':abcd['values'][i][j]})
                 dictionary['answers']=answers
             elif j>12 and j<16:
-                resolution.append(int(abcd['values'][i][j]))
-                dictionary['resolution']=resolution
+                if abcd['values'][i][j]!='':
+                    resolution.append(int(abcd['values'][i][j]))
+                    dictionary['resolution']=resolution
             else:
                 dictionary[abcd['values'][0][j]]=abcd['values'][i][j]
         

@@ -1,5 +1,7 @@
 title,category,kind,difficulty,Option1,Option2,Option3,Option4,Option5,Option6,Option7,Option8,Option9,Answer1,Answer2,Answer3,explanation
-abc *dash* xyz ,GRE,sentence_equivalence,3,a,b,c,d,g,f,,,,0,1
+"Although it does contain some pioneering ideas, one would hardly characterize the work as __________.",GRE,sentence_equivalence,3,orthodox,eccentric,original,trifling,conventional,innovative,,,,2,5,,"The word ""Although"" is a crucial signpost here. The work contains some pioneering ideas, but apparently it is not overall a pioneering work. Thus the two words that could fill the blank appropriately are ""original"" and ""innovative."" Note that ""orthodox"" and ""conventional"" are two words that are very similar in meaning, but neither one completes the sentence sensibly. Thus, the correct answer is Choice C (original) and Choice F (innovative).
+
+"
 qwe *dash* xyz ,GRE,single,2,a,b,c,d,e,,,,,0
 try *dash* xyz ,GRE,double,1,a,b,c,d,e,f,,,,0,1
 ghj *dash* xyz ,GRE,triple,3,a,b,c,d,e,f,g,h,i,0,1,2
